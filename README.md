@@ -1,2 +1,9 @@
 # repo0802
-- Hey
+
+- Yo
+- Create Organization
+- Fork repo to own account
+- git clone
+- Open new feature branch
+- Make changes on feature branch
+- Merge feature branch into main
