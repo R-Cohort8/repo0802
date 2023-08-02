@@ -1,2 +1,6 @@
 # repo0802
-- Hey
+
+- Hello
+- Create Organization
+- Fork repo to own account
+- git clone
